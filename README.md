@@ -1,5 +1,11 @@
-# pushcore
-Library to send push notification for APN and GCM (deprecated soon!)
+# pushcore (deprecated soon!)
+Library to send push notification for APN and GCM 
+
+## Preparing
+
+Import jar file into build path
+
+## Sample Usage
 
 ```java
 public static void main(String[] args) {
